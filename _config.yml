@@ -1,4 +1,4 @@
-
+﻿
 
 
 ######################### theme kunka condigure ##############################################
@@ -91,12 +91,10 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+    - text: 海天心Y2kking
+      url: http://weibo.com/1419491963
+    - text: 钟爱一生
+      url: http://morehappy.pw
     message: Friends
   - item:
     - text: Font Awesome
@@ -115,7 +113,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: butler13
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
