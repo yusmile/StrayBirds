@@ -107,21 +107,21 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: butler
 
 
 #################################### global configure #######################################
 
 username: butler13
-baseurl: /StrayBirds
+baseurl: /butler13.github.io
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 钟爱一生
+description: The Pursuit of Happyness
 theme: kunka
-disqusname: minixalpha
+disqusname: butler
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
