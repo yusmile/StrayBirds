@@ -113,8 +113,8 @@ disqus:
 
 #################################### global configure #######################################
 
-username: butler13
-baseurl: /butler13.github.io
+username: yusmile
+baseurl: /yusmile.github.io
 markdown: redcarpet
 safe: false
 highlighter: pygments
