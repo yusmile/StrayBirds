@@ -113,7 +113,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: StrayBirdsa
+username: StrayBirds
 baseurl: /yusmile.github.io
 markdown: redcarpet
 safe: false
